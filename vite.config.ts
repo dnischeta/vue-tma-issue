@@ -7,7 +7,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/vue-tma-issue',
+  base: '/vue-tma-issue/',
   plugins: [
     vue(),
     vueDevTools(),
